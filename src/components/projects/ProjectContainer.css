@@ -1,0 +1,38 @@
+.project {
+	padding: 2rem;
+	margin: 0 auto;
+	text-align: center;
+	box-shadow: var(--shadow);
+	transition: transform 0.2s linear;
+}
+
+.project:hover {
+	transform: translateY(-7px);
+}
+
+.project__description {
+	margin-top: 1rem;
+}
+
+.project__stack {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 1.2rem 0;
+}
+
+.project__stack-item {
+	margin: 0.5rem;
+	font-weight: 500;
+	font-size: 0.8rem;
+	color: var(--clr-fg-alt);
+}
+
+.project .link--icon {
+	margin-left: 0.5rem;
+}
+
+.project .link--icon svg {
+	width: 24px;
+	height: 24px;
+}
