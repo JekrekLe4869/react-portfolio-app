@@ -7,7 +7,8 @@ const about = {
 	role: 'Front End Developer',
 	description:
 		'The only person you should try to be better than is the person you were yesterday',
-	resume: 'https://example.com',
+	resume:
+		'https://www.topcv.vn/xem-cv/W1dWC1RWDglWBFIGBlFUBgBXBAcFC1BVAVsCUQ9949',
 	social: {
 		linkedin: 'https://linkedin.com',
 		github: 'https://github.com',

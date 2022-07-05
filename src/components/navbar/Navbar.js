@@ -11,7 +11,7 @@ const Navbar = () => {
 		JSON.parse(localStorage.getItem('theme'))
 	);
 
-	console.log(darkMode);
+	// console.log(darkMode);
 
 	useEffect(() => {
 		const currentMode = JSON.parse(localStorage.getItem('theme'));
